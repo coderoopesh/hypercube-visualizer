@@ -1,3 +1,9 @@
+## Citation & Documentation
+* **Source Code DOI:** [https://doi.org/10.5281/zenodo.23136804]
+* **Academic Paper DOI:** [https://doi.org/10.5281/zenodo.23136832]
+
+If you use this method in your research or teaching, please cite the academic preprint.
+
 # N-Dimensional Hypercube Visualizer (1D–6D)
 
 A Python program for generating, rotating, and projecting higher-dimensional hypercubes (from 1D segments up to the 6D hexateron) into real-time interactive 3D visualization windows.
